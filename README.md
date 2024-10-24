@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabquant&label=Profile%20views&color=0e75b6&style=flat" alt="aftabquant" /> </p>
 
-- 🔭 I’m currently working on [Data Analytics & ML](https://github.com/AftabQuant/Data-Analysis-Mastery.git)
+- 🔭 I’m currently working on [Data Science & ML](https://github.com/AftabQuant/Data-Analysis-Mastery.git)
 
 - 🌱 I’m currently learning **Java, MS Excel, MySQL, Power BI, Python**
 
