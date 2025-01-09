@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabquant&label=Profile%20views&color=0e75b6&style=flat" alt="aftabquant" /> </p>
 
-- 🔭 I’m currently working on [Data Science & Machine Learning](https://github.com/AftabQuant/Data-Analysis-Mastery.git)
+- 🔭 I’m currently working on [Data Science & Machine Learning](https://github.com/AftabQuant/Data-Analysis-Project)
 
-- 🌱 I’m currently learning **Java, MS Excel, MySQL, Power BI, Python**
+- 🌱 I’m currently learning **Java, Data Analysis, Data Visualization, Power BI, Python, Machine Learning**
 
-- 🔭 I have worked on [Four Projects [InternPE]](https://github.com/AftabQuant/InternPE-Internship-Project.git)
+- 🔭 I have worked on [Data Analysis Project](https://github.com/AftabQuant/Data-Analysis-Project)
 
 - 📫 How to reach me **aftabuddin.mhd@gmail.com**
 
