@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aftabuddin.mhd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lvmNr-VLaBapH7LL4vZjlgi7CyL8W6_x/view?usp=drive_link](https://drive.google.com/file/d/1lvmNr-VLaBapH7LL4vZjlgi7CyL8W6_x/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lvmNr-VLaBapH7LL4vZjlgi7CyL8W6_x/view?usp=drive_link](https://drive.google.com/file/d/1-MrsdpXzwjCoEu2TE39zqD7juP2e5ZwR/view?usp=drive_link)
 
 - ⚡ Fun fact **I think i am overthinker**
 
