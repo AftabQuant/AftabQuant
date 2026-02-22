@@ -8,13 +8,13 @@
 🔭 I’m currently working on Data Science, Machine Learning, and NLP projects with a focus on end-to-end ML pipelines and real-world data analysis ([Data Science Project](https://github.com/AftabQuant/Machine-Learning-Project.git))
 - 🌱 I’m currently learning **Data Science, Machine Learning, NLP, CNN, Power BI, MySQL, and Advanced Python for Data Analysis**
 
-- 🔭 I have worked on [Data Analysis Project](https://github.com/AftabQuant/Data-Analysis-Project)
+- 👨‍💻 I have worked on [Data Analysis and Machine Learning projects](https://github.com/AftabQuant/Data-Analysis-Project)
 
 - 📫 How to reach me **aftabuddin.mhd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lvmNr-VLaBapH7LL4vZjlgi7CyL8W6_x/view?usp=drive_link](https://drive.google.com/file/d/1-MrsdpXzwjCoEu2TE39zqD7juP2e5ZwR/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1t2ih4FFAd9-aqdLKbFPv7OOAnLyYzruK/view?usp=drive_link](https://drive.google.com/file/d/1t2ih4FFAd9-aqdLKbFPv7OOAnLyYzruK/view?usp=drive_link)
 
-- ⚡ Fun fact **I think i am overthinker**
+- ⚡ Fun fact: **I am an overthinker who pays great attention to detail**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
