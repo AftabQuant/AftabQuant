@@ -5,8 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabquant&label=Profile%20views&color=0e75b6&style=flat" alt="aftabquant" /> </p>
 
-- 🔭 I’m currently working on [Data Science & Machine Learning](https://github.com/AftabQuant/Data-Analysis-Project)
-
+🔭 I’m currently working on Data Science, Machine Learning, and NLP projects with a focus on end-to-end ML pipelines and real-world data analysis ([Data Science Project](https://github.com/AftabQuant/Machine-Learning-Project.git))
 - 🌱 I’m currently learning **Data Science, Machine Learning, NLP, CNN, Power BI, MySQL, and Advanced Python for Data Analysis**
 
 - 🔭 I have worked on [Data Analysis Project](https://github.com/AftabQuant/Data-Analysis-Project)
