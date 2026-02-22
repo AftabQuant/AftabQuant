@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Data Science & Machine Learning](https://github.com/AftabQuant/Data-Analysis-Project)
 
-- 🌱 I’m currently learning **Java, Data Analysis, Data Visualization, Power BI, Python, Machine Learning**
+- 🌱 I’m currently learning **Data Science, Machine Learning, NLP, CNN, Power BI, MySQL, and Advanced Python for Data Analysis**
 
 - 🔭 I have worked on [Data Analysis Project](https://github.com/AftabQuant/Data-Analysis-Project)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md aftab uddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md aftab uddin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-aftab-uddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md aftab uddin" height="30" width="40" /></a>
 <a href="https://instagram.com/always_aaftab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="always_aaftab" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aftabcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aftabcoder" height="30" width="40" /></a>
 </p>
