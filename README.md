@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0e75b6&height=210&section=header&text=Md%20Aftab%20Uddin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20Intern%20%40%20EPAM%20Systems&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0e75b6&height=210&section=header&text=Md%20Aftab%20Uddin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20Trainee%20%40%20EPAM%20Systems&descAlignY=58&descSize=20"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=39D6FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=70&lines=Aspiring+Data+Analyst+%7C+Data+Scientist;Machine+Learning+%26+NLP+Enthusiast;Turning+raw+data+into+real+decisions" alt="Typing SVG" />
@@ -10,17 +10,15 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aftabquant&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/aftabquant?label=FOLLOWERS&style=for-the-badge&color=39D6FF&logo=github"/>
-<img src="https://img.shields.io/badge/dynamic/json?color=success&label=PROFILE%20REPO&query=public_repos&url=https://api.github.com/users/aftabquant&style=for-the-badge&logo=github"/>
+<p>
+<img src="https://komarev.com/ghpvc/?username=aftabquant&label=PROFILE+VIEWS&color=5B8FC7&style=for-the-badge&labelColor=0b0d12"/><img src="https://img.shields.io/github/followers/aftabquant?label=FOLLOWERS&style=for-the-badge&color=8A7AB0&labelColor=0b0d12&logo=github&logoColor=8A7AB0"/><img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/AftabQuant/YOUR_GIST_ID_HERE/raw/repo-count.json&style=for-the-badge&labelColor=0b0d12"/>
+</p>
 
 <p>
-<a href="https://www.linkedin.com/in/md-aftab-uddin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:aftabuddin.mhd@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/aftabcoder"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://instagram.com/always_aaftab"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1t2ih4FFAd9-aqdLKbFPv7OOAnLyYzruK/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-00A86B?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/md-aftab-uddin/"><img src="assets/cards/linkedin.svg" width="105"/></a><a href="mailto:aftabuddin.mhd@gmail.com"><img src="assets/cards/email.svg" width="105"/></a><a href="https://leetcode.com/aftabcoder"><img src="assets/cards/leetcode.svg" width="105"/></a><a href="https://instagram.com/always_aaftab"><img src="assets/cards/instagram.svg" width="105"/></a><a href="https://drive.google.com/file/d/1t2ih4FFAd9-aqdLKbFPv7OOAnLyYzruK/view?usp=drive_link"><img src="assets/cards/resume.svg" width="105"/></a>
 </p>
+
+<sub>✅ Views, Followers &amp; Public Repos are fetched live from the GitHub API — no fabricated data.</sub>
 
 </div>
 
@@ -32,8 +30,8 @@
 
 ```yaml
 name: Md Aftab Uddin
-role: Data Engineering Intern @ EPAM Systems
-education: B.Tech Computer Science (Data Science), Haldia Institute of Technology
+role: Data Engineering Trainee @ EPAM Systems
+education: B.Tech Computer Science (Data Science), Haldia Institute of Technology (Graduated)
 focus: [Data Engineering, Machine Learning, NLP, Computer Vision]
 currently_learning: [Azure Cloud, Docker, Linux, Power BI, Advanced Python]
 volunteering: Teacher @ Samarpan Society NGO (tuition in Bengali)
